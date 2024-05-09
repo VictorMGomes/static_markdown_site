@@ -4,22 +4,19 @@ layout: home
 
 hero:
   name: "Victor M. Gomes"
-  text: "My personal WebSite"
-  tagline: My great project tagline
+  text: "Experienced"
+  tagline: IT Professional
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Whoami
+      link: #
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Links
+      link: #
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: "Software Developer"
+    details: Since 2022 to now
+  - title: "IT INFRASTRUCTURE ANALYST"
+    details: Since 2018 to now
 ---
-
